@@ -1,8 +1,39 @@
+### Alex Pickering: a Digital Imprint of Consciousness
+
+## Introduction
+
+My name is Alex Pickering. I'm a student looking for opportunities to transition into a computer science career.
+
+
+## Places I've been
+
+
+## Quick! The Escape Pods!!!
+
+```markdown
+something something
+something something
+1+3
+
+```
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/alexpickering/alexpickering.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Bulleted
+- List
+- Period
+- .
+
+1. Numbered
+2. List
+3. things that matter
+4. period
+5. . 
+
 
 ### Markdown
 
