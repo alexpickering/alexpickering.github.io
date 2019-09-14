@@ -1,21 +1,22 @@
 ### Alex Pickering: a Digital Imprint of Consciousness
 
+## !! _Caution_ This page is still under construction. Please watch your step !!
+
 ## Introduction
 
 My name is Alex Pickering. I'm a student looking for opportunities to transition into a computer science career.
 
+## A Series of Grandiose Claims
+
+I was brought to Computer Science through technology's promise for our future. Namely, that computing machines can, in theory, solve any solvable problem. This claim, while relying heavily on the notion that indeed any problem can be imported into the rather concrete and formalized realm of computer science, is shocking in its implications. 
+
+Relatedly, as someone who has always appreciated the beauty of language as a method to convey approximate meaning (in fact, a compromise of meaning between otherwise entirely disperate consciousnesses), I've found the idea of code as a formalization of logical thought to be enticing, even approaching poetic when finesse is exercised.
 
 ## Places I've been
 
 
 ## Quick! The Escape Pods!!!
 
-```markdown
-something something
-something something
-1+3
-
-```
 
 
 ## Welcome to GitHub Pages
