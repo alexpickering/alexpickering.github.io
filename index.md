@@ -1,12 +1,11 @@
 ### Alex Pickering: a Digital Imprint of Consciousness
 
-## !! _Caution_ This page is still under construction. Please watch your step !!
+## !! _Caution:_ this page is still under construction. Please watch your step !!
 
 ## Introduction
 
 ![profile_pic.png](img/profile_pic.PNG)
 My name is Alex Pickering. I'm a student looking for opportunities to transition into a computer science career. As a practiced writer with a Bachelor's degree in English, I have a unique take on the field. 
-
 
 ## A Series of Grandiose Claims
 
@@ -43,3 +42,4 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+
