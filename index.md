@@ -31,3 +31,6 @@ On motivation by way of interest, as someone who has always appreciated the beau
 
 
 __fin__
+
+
+## Footnotes
