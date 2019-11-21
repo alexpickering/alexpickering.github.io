@@ -14,7 +14,6 @@ I was brought to computer science by technology's promise for our future. Namely
 On motivation by way of interest, as someone who has always appreciated the beauty of language as a method to convey approximate meaning,[^1] I've found the idea of code as a formalization of logical thought to be enticing, (even, on rare occasion, poetic).
 
 
-
  
 
 
@@ -26,8 +25,6 @@ On motivation by way of interest, as someone who has always appreciated the beau
 
 
 ## Quick! The Escape Pods!!!
-
-
 
 
 __fin__
