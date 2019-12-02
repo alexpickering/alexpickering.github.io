@@ -4,9 +4,12 @@
 
 ## Introduction
 
+My name is Alex Pickering.
+
 <!-- ![profile_pic.png](img/profile_pic.PNG=168x300) -->
 <img src="img/profile_pic.PNG" width="300"/>
-My name is Alex Pickering. I'm a student looking for opportunities to transition into a computer science career. As a practiced writer with a Bachelor's degree in English, and a practiced thinker with a minor in Philosophy, I have a unique take on the field. 
+<div> </div>
+I'm a student looking for opportunities to transition into a computer science career. As a practiced writer with a Bachelor's degree in English, and a practiced thinker with a minor in Philosophy, I have a unique take on the field. 
 
 ## A Series of Grandiose Claims
 
