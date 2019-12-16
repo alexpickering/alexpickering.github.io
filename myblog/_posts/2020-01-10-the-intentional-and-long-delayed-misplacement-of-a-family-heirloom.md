@@ -1,0 +1,23 @@
+---
+
+layout: post
+title: "Religion"
+date: 2020-01-10 12:00:00 -0500
+categories: Anecdotes
+---
+
+# The Intentional and Long Delayed Misplacement of a Family Heirloom
+
+I'm from the heart of the Midwest.[^1] I grew up in what were so affectionately called "the rural slums" of Nowhere, Ohio, sans the dog (creeeeeepy stuff happens in Nowhere; primarily the survival of decrepit societal norms codified in "magical" texts and defended under the guise of supernatural consequences)[^2].
+
+| ![Hell is Real Sign, Ohio](https://advancelocal-adapter-image-uploads.s3.amazonaws.com/image.cleveland.com/home/cleve-media/width2048/img/opinion_impact/photo/billboard-234ca46685af97f9.jpg) |
+| :----------------------------------------------------------: |
+|              *Super-friendly Midwestern spirit*              |
+
+I was lucky enough to be disabused of the fear of eternal damnation in late high school, surrounded by punks and smartasses equiped with just enough logic to disarm the family heirloom of protestant faith. In hindsight, most of the tools they used were crude, but I'm forever grateful for those conversations as a nascent form of my adoption of rationality and embracing secular humanism.
+
+# *Watch your step: This post is a work in progress*
+
+
+[^1]: Well, on a map the Midwest is something of an round blob, so perhaps I'm from the skin of the Midwest? The exoskeleton? Personifying a chunk of land, especially one with a shape so unlike a human body, never felt apt to me.
+[^2]: ["A Very Old Man with Enormous Wings" by Gabriel Garcia Marquez](https://www.ndsu.edu/pubweb/~cinichol/CreativeWriting/323/MarquezManwithWings.htm)
