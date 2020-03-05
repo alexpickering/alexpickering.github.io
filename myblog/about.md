@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About Alex Pickering
+title: About
 permalink: /about/
 ---
 
-
+## About Alex Pickering
 
 ![Alex Pickering](/home/taka0/alexpickering.github.io/myblog/assets/img/profile_pic_small.PNG)
 
