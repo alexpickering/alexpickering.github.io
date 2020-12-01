@@ -6,7 +6,8 @@
 
 My name is Alex Pickering
 
-<img src="img/profile_pic.PNG" width="300"/>
+<img src="img/profile_pic.PNG" width="50%">
+
 <p>
 I'm a student looking for opportunities to transition into a computer science career. As a practiced writer with a Bachelor's degree in English, and a practiced thinker with a minor in Philosophy, I have a unique take on the field.
 </p>
